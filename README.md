@@ -58,9 +58,19 @@ Home automation using **Arduino + ESP32** with multi-sensor fusion (temperature,
 
 ## 🟢 Experience
 
+### 🔵 Phd  — EEE,IIT Guwahati
+*Dr. Anirban Dasgupta · Dept. of EEE*
+**Jul 2025 – Ongoing · Guwahati, India**
+
+- › Research Domain:- Non-Comtact Pulmonary Health Monitoring
+- › Tackling some complex healthcare problems via AI
+
+---
+
+
 ### 🔵 Junior Research Fellow (JRF) — IIT Guwahati, TIH
 *Dr. Anirban Dasgupta · Dept. of EEE*
-**Jun 2024 – Ongoing · Guwahati, India**
+**Jun 2024 – Aug 2024 · Guwahati, India**
 
 - › Deploying real-time path planning + vision AI on Jetson Nano for autonomous underwater drone
 - › Benchmarking inference times, FP/FN rates, and positional accuracy in live control loops
