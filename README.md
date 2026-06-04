@@ -2,7 +2,7 @@
 
 **AI / ML Engineer · Robotics · Computer Vision**
 
-✉ divyajyoti368@gmail.com · ✉ divyajyoti9431@gmail.com
+✉ divyajyoti9431@gmail.com · ✉ divyajyoti368@gmail.com
 
 ---
 
